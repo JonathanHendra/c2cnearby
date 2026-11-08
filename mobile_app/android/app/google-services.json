@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708387131424",
+    "project_id": "c2cnearby",
+    "storage_bucket": "c2cnearby.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708387131424:android:fe961c55ce152c7e512c45",
+        "android_client_info": {
+          "package_name": "com.c2cnearby.c2c_nearby"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6U4GOVnThUdiFElCWGeLWpwoJxDv9qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

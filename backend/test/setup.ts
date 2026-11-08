@@ -1,0 +1,10 @@
+process.env.NODE_ENV = 'test';
+process.env.PORT = '4000';
+process.env.DB_NAME = process.env.TEST_DB_NAME ?? 'c2c_nearby_test';
+process.env.DB_POOL_MAX = '5';
+process.env.LOG_LEVEL = 'silent';
+process.env.AUTH_DRIVER = 'dev';
+process.env.FACE_DRIVER = 'mock';
+process.env.FACE_CALLBACK_SECRET = 'phase3-test-face-secret';
+process.env.UPLOAD_DIR = 'storage/test-uploads';
+process.env.PUBLIC_BASE_URL = 'http://127.0.0.1:4000';
